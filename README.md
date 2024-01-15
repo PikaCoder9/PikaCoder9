@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @PikaCoder9
+- 👀 I’m interested in Software Developing
+- 🌱 I’m currently learning HTML, CSS
+- 💞️ I’m looking to collaborate with you on [Replit](https://replit.com/@-Pikachu-).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: There are over 1,000 commands in bash.
